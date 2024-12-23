@@ -1,0 +1,10 @@
+C:\Users\Daria\source\repos\Laboratory3\Лабораторная3\bin\Debug\Лаба3.exe.config
+C:\Users\Daria\source\repos\Laboratory3\Лабораторная3\bin\Debug\Лаба3.exe
+C:\Users\Daria\source\repos\Laboratory3\Лабораторная3\bin\Debug\Лаба3.pdb
+C:\Users\Daria\source\repos\Laboratory3\Лабораторная3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daria\source\repos\Laboratory3\Лабораторная3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daria\source\repos\Laboratory3\Лабораторная3\obj\Debug\Лабораторная3.csproj.AssemblyReference.cache
+C:\Users\Daria\source\repos\Laboratory3\Лабораторная3\obj\Debug\Лабораторная3.csproj.CoreCompileInputs.cache
+C:\Users\Daria\source\repos\Laboratory3\Лабораторная3\obj\Debug\________.6426538B.Up2Date
+C:\Users\Daria\source\repos\Laboratory3\Лабораторная3\obj\Debug\Лаба3.exe
+C:\Users\Daria\source\repos\Laboratory3\Лабораторная3\obj\Debug\Лаба3.pdb

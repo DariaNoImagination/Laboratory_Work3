@@ -1,0 +1,10 @@
+C:\Users\Daria\source\repos\Лаба3\Лаба3\bin\Debug\Лаба3.exe.config
+C:\Users\Daria\source\repos\Лаба3\Лаба3\bin\Debug\Лаба3.exe
+C:\Users\Daria\source\repos\Лаба3\Лаба3\bin\Debug\Лаба3.pdb
+C:\Users\Daria\source\repos\Лаба3\Лаба3\obj\Debug\Лаба3.csproj.AssemblyReference.cache
+C:\Users\Daria\source\repos\Лаба3\Лаба3\obj\Debug\Лаба3.csproj.CoreCompileInputs.cache
+C:\Users\Daria\source\repos\Лаба3\Лаба3\obj\Debug\Лаба3.exe
+C:\Users\Daria\source\repos\Лаба3\Лаба3\obj\Debug\Лаба3.pdb
+C:\Users\Daria\source\repos\Лаба3\Лаба3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daria\source\repos\Лаба3\Лаба3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daria\source\repos\Лаба3\Лаба3\obj\Debug\Лаба3.csproj.Up2Date
